@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b016e1f3-493f-1fd4-573e-b41bb24b9b19
 resourcetype: Document
 title: Summary of "The DNA Helix and How It Is Read," by Richard E. Dickerson
 uid: eb734a2e-d7de-e8d1-25bf-dfba0154a980
